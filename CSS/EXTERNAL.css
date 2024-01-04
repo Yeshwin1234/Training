@@ -1,0 +1,42 @@
+.EXTERNAL{
+    font-size: 30PX;color: blue;
+    border: 3PX solid rebeccapurple;
+    background-color: aquamarine;
+}
+#main{
+    height: 300px;
+    width: 500px;
+    background-color: aquamarine;
+}
+span{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+}
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    font-size: 30PX;
+}
+input[type]{
+    color: blue;
+}
+a[href]{
+background-color: blue;
+color: black;
+}
+a:link{
+    color: blueviolet;
+}
+a:visited{
+    color: pink;
+}
+a:hover{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 0, 81);
+}
+a:active{
+    color: rgb(247, 171, 8);
+}

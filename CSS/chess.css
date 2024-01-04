@@ -1,0 +1,12 @@
+.a{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(9, 237, 62);
+    border: 1px solid black;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 1px solid black;
+}
